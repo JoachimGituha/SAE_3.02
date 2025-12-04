@@ -1,3 +1,5 @@
+2Alternant&1Timeout: NEFZI Mehdi LAUNAY Valentin GUTTER Joachim
+
 # SAE_3.02 Conception d’une architecture distribuée avec routage en oignon
 
 Description du projet
@@ -46,4 +48,6 @@ Technologies utilisées:
 -Machines virtuelles Linux
 
 
-Pour toute aide d'installation ou de configuration veuillez se référer aux documents d'installation se trouvant dans de dossier "Documentation".
+Pour toute aide d'installation ou de configuration veuillez se référer aux documents d'installation se trouvant dans de dossier "Documentation".Vous y retrouverez aussi une vidéo de démonstration du fonctionnement de notre projet avec différentes exlications. 
+
+Les codes source se situent dans le dossier Source et le dossier Gestion de Projet permet le suivi de notre projet. 
