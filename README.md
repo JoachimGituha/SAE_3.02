@@ -50,4 +50,4 @@ Technologies utilisées:
 
 Pour toute aide d'installation ou de configuration veuillez se référer aux documents d'installation se trouvant dans de dossier "Documentation".Vous y retrouverez aussi une vidéo de démonstration du fonctionnement de notre projet avec différentes exlications. 
 
-Les codes source se situent dans le dossier Source et le dossier Gestion de Projet permet le suivi de notre projet. 
+Les codes source se situent dans le dossier Source et le dossier Gestion de Projet permet le suivi de notre projet.
